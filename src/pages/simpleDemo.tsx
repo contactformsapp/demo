@@ -20,9 +20,9 @@ export default function SimpleDemo() {
           phone,
         },
       });
-    setName(undefined);
-    setEmail(undefined);
-    setPhone(undefined);
+    setName("");
+    setEmail("");
+    setPhone("");
   };
   return (
     <>
